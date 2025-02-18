@@ -23,6 +23,8 @@
 ## 📊 **언어별 활용 비율**
 ![Languages Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-holim&layout=compact)
+
 ---
 
 ## 📫 **Contact Me**
