@@ -1,6 +1,11 @@
 # 🚀 Backend Developer SongHoLim's Portfolio
 
-안녕하세요! 저는 **백엔드 개발자**로서 **확장성**과 **효율성**을 고려한 백엔드 시스템을 개발하는 것을 좋아합니다.  
+Hello! As a **backend developer**, I build stable backend systems with a focus on **scalability** and **efficiency**.
+I primarily use **Python, PHP**, and various **databases and cloud technologies** to develop reliable services.
+
+---
+
+안녕하세요! 저는 **백엔드 개발자**로서 **확장성**과 **효율성**을 고려하여 안정적인 백엔드 시스템을 개발 합니다.
 주로 **Python, PHP** 등의 언어와 다양한 **데이터베이스 및 클라우드 기술**을 사용하여 안정적인 서비스를 구축합니다.  
 
 ---
