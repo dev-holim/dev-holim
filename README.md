@@ -24,8 +24,6 @@ I primarily use **Python, PHP**, and various **databases and cloud technologies*
 ---
 
 ## 📊 **언어별 활용 비율**
-![Languages Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-holim&layout=compact&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-holim&layout=compact)
 
 ---
